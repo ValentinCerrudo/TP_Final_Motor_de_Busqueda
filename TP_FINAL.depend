@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1669409570 source:c:\users\mma\desktop\nueva carpeta\segundo cuatrimestre\lab y pro ii\tp_final\nodot.c
+	<stdio.h>
+	<stdlib.h>
+	"nodoT.h"
+
+1669408835 c:\users\mma\desktop\nueva carpeta\segundo cuatrimestre\lab y pro ii\tp_final\nodot.h
+
+1669408946 source:c:\users\mma\desktop\nueva carpeta\segundo cuatrimestre\lab y pro ii\tp_final\nodoa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoA.h"
+
+1669497487 c:\users\mma\desktop\nueva carpeta\segundo cuatrimestre\lab y pro ii\tp_final\nodoa.h
+	"nodoT.h"
+	"Termino.h"
+
+1669410450 c:\users\mma\desktop\nueva carpeta\segundo cuatrimestre\lab y pro ii\tp_final\termino.h
+
+1669409972 source:c:\users\mma\desktop\nueva carpeta\segundo cuatrimestre\lab y pro ii\tp_final\nodofrase.c
+	"nodoFrase.h"
+
+1669423550 c:\users\mma\desktop\nueva carpeta\segundo cuatrimestre\lab y pro ii\tp_final\nodofrase.h
+	<string.h>
+	<malloc.h>
+	<stdio.h>
+	"Termino.h"
+	"nodoT.h"
+	"nodoA.h"
+	<conio.h>
+
+1669411812 source:c:\users\mma\desktop\nueva carpeta\segundo cuatrimestre\lab y pro ii\tp_final\termino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"Termino.h"
+
+1669424301 source:c:\users\mma\desktop\nueva carpeta\segundo cuatrimestre\lab y pro ii\tp_final\funcionesusuario.c
+	"funcionesUsuario.h"
+
+1669424271 c:\users\mma\desktop\nueva carpeta\segundo cuatrimestre\lab y pro ii\tp_final\funcionesusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"nodoA.h"
+	"nodoFrase.h"
+
+1669426788 source:c:\users\mma\desktop\nueva carpeta\segundo cuatrimestre\lab y pro ii\tp_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	<conio.h>
+	"Termino.h"
+	"nodoT.h"
+	"nodoA.h"
+	"nodoFrase.h"
+	"funcionesUsuario.h"
+
+1669504837 source:c:\users\admin\desktop\valentin_cerrudo\tp_final\funcionesusuario.c
+	"funcionesUsuario.h"
+
+1669504837 c:\users\admin\desktop\valentin_cerrudo\tp_final\funcionesusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"nodoA.h"
+	"nodoFrase.h"
+
+1669497487 c:\users\admin\desktop\valentin_cerrudo\tp_final\nodoa.h
+	"nodoT.h"
+	"Termino.h"
+
+1669504682 c:\users\admin\desktop\valentin_cerrudo\tp_final\nodot.h
+
+1669504682 c:\users\admin\desktop\valentin_cerrudo\tp_final\termino.h
+
+1669504682 c:\users\admin\desktop\valentin_cerrudo\tp_final\nodofrase.h
+	<string.h>
+	<malloc.h>
+	<stdio.h>
+	"Termino.h"
+	"nodoT.h"
+	"nodoA.h"
+	<conio.h>
+
+1669408946 source:c:\users\admin\desktop\valentin_cerrudo\tp_final\nodoa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoA.h"
+
+1669504123 source:c:\users\admin\desktop\valentin_cerrudo\tp_final\nodofrase.c
+	"nodoFrase.h"
+
+1669504123 source:c:\users\admin\desktop\valentin_cerrudo\tp_final\nodot.c
+	<stdio.h>
+	<stdlib.h>
+	"nodoT.h"
+
+1669504682 source:c:\users\admin\desktop\valentin_cerrudo\tp_final\termino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"Termino.h"
+
+1669563862 source:c:\users\admin\desktop\valentin_cerrudo\tp_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"Termino.h"
+	"nodoT.h"
+	"nodoA.h"
+	"nodoFrase.h"
+	"funcionesUsuario.h"
+
